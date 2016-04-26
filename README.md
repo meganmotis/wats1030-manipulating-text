@@ -107,8 +107,16 @@ ServerName www.unix.org
 times does the word "Vishta" show up in the short story? How many times does the
 word "Kuno" show up in the short story? (Type your answers here.)
 
+"Vishta" does not appear. "Vashti" appears 31 times and "Kuno" appears 25 times.
+
 ## Stretch Goals
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
+Tetris in emacs is hard!
+
 * How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
+M-x linum-mode turns on line numbering in Emacs.
+In Vi - Esc : set number
+
 * Explore the Emacs file browser mode. Describe how it works here.
+I don't know if "file browser mode" is the same as what I found but I did C-x d and entered Dired (Directory editor). Dired gave you a list of files and folders, and it looked very similar to when you run "ls -alh".
